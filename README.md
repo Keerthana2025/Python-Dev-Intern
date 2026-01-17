@@ -2,8 +2,7 @@
 The Internship focuses on strengthening Python Fundamentals through hands-on-coding tasks and problem-solving.
 
 📂 Tasks Completed
-
-      **LEVEL 1 - **
+**LEVEL1:**
 🔹 Task 1: String Reversal
 🔹 Task 2: Temperature Conversion
 🔹 Task 3: Email Validator
