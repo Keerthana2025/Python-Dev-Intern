@@ -1,4 +1,4 @@
-//ARITHMETIC OPERATORION
+//CALCULATOR PROGRAM
 
 num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
@@ -25,3 +25,4 @@ elif operator == "%":
 
 else:
     print("Invalid operator")
+
