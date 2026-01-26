@@ -92,14 +92,11 @@ csv_files = {
 
 }
 
-# Step 3: Save CSV files into the folder
 for filename, content in csv_files.items():
     file_path = os.path.join(folder_path, filename)
     with open(file_path, "w") as f:
         f.write(content)
     print(f"Created file: {filename}")
-
-# Step 4: Organize files by extension (your original code)
 if not os.path.exists(folder_path):
     print("Folder not found!")
 else:
